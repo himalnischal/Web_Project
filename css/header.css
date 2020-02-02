@@ -1,0 +1,51 @@
+
+.header
+{
+
+  border:2px solid #391f67 ;
+  background-color: #f27200;
+  width: 100%;
+  height:60px;
+  
+}
+
+.mobile h1 {
+  font-size:25px;
+  color:#391f67;
+  float:right;
+  margin-right: 12px;
+
+}
+.footer
+{
+   border:2px solid #391f67 ;
+  background-color: #f27200;
+  width: 100%;
+  height:100px;
+}
+
+.footer1 p
+{
+  text-align: center;
+ color: #391f67;
+}
+.header ul li
+{
+  list-style-type: none;
+display:inline;
+float:left;
+font-size: 20px;
+}
+.header ul
+{
+
+  margin: 0px;
+  padding:0px;
+}
+
+.header li a {
+  display: block;
+  padding: 20px;
+  text-decoration: none;
+  color:#391f67;
+}

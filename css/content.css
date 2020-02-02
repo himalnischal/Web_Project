@@ -1,0 +1,73 @@
+.content {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+  height: 300px;
+  display:inline-block;
+  border:1px solid #f27200;
+  margin-left: 3px;
+}
+{
+  box-sizing: border-box;
+}
+.content_section
+{
+	display:inline-block;
+}
+.brand p
+{
+	font-size:15px;
+	color:#391f67;
+}
+.brand span
+{
+color: #f27200;
+}
+.btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px;
+  margin: 10px 0;
+  border: none;
+  width: 100%;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 17px;
+}
+input[type=submit]
+{
+	background-color:#f27200;;
+	width: 100%;
+  margin-bottom: 20px;
+  padding: 12px;
+  border-radius: 3px;
+}
+.carousel-inner img {
+    width: 100%;
+    height: 50%;
+  }
+  .carousel-caption h3
+  {
+  	color: #f27200;
+  }
+
+  .carousel-caption p
+  {
+  	color: Red;
+  }
+  .slide h1{
+  	color:#391f67;
+  	font-weight:12px;
+  }
+  .amount
+  {
+    border:1px solid #391f67;
+  }
+  .android
+  {
+    border:1px solid #391f67;
+  }
+  .iphone
+  {
+    border:1px solid #391f67;
+  }
